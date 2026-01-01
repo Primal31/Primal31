@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Primal  
 
-<!--
-**Primal31/Primal31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Data Analyst** on a journey to learn and grow in data analysis, visualization, and insights generation. 🚀  
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- **Python** and **SQL** for data analysis  
+- **Excel** and **Google Sheets** for data manipulation  
+- **Data Visualization** with **Matplotlib**, **Seaborn**, and **Tableau**  
+- **Statistics** and **basic analytics concepts**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 I’m looking to
+- Build projects to apply my learning  
+- Contribute to beginner-friendly open-source projects  
+- Collaborate with others who are learning or working in Data Analytics  
+
+## 💬 Ask me about
+- My journey learning data analytics from scratch  
+- Resources, tips, or beginner projects for data analysis  
+
+## ⚡ Fun fact
+- I love **learning by doing projects**, even if I fail the first time!  
+- I'm passionate about **turning data into insights**.  
